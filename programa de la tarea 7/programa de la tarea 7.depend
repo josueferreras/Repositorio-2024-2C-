@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720737649 source:c:\users\josue\onedrive\imágenes\documentos\tarea de programacion 2\programa de la tarea 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
